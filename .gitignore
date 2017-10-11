@@ -1,0 +1,16 @@
+#--------------------------#
+# Project Specific Ignores #
+#--------------------------#
+/vendor/
+.env
+nbproject
+._*
+.~lock.*
+.buildpath
+.DS_Store
+.idea
+/.idea/
+.project
+.settings
+composer.lock
+vendor/bin

@@ -1,0 +1,12 @@
+{
+  "orderId": "123",
+  "status": "invoiced",
+  "invoice": {
+    "number": "b413bfe83d704c76bd4f81f99abf30c9",
+    "value": 100.90,
+    "url": "https://buscape.slack.com/messages/D6X2MSFPE/",
+    "issuanceDate": "2017-09-09",
+    "key": "fe83d704c76bd4f"
+  },
+  "tracking": "BR625252S"
+}

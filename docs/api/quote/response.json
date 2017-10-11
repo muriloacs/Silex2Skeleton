@@ -1,0 +1,43 @@
+{
+  "quotes": [
+    {
+      "id": "b413bfe83d704c76bd4f81f99abf30c9",
+      "cost": 13.00,
+      "deliveryTime": {
+        "estimate": 3,
+        "shipping": 2,
+        "handling": 1
+      },
+      "method": {
+        "id": "correios_sedex",
+        "name": "Sedex"
+      }
+    },
+    {
+      "id": "lop1bfe83d704c76bd4f81f99abmj71h",
+      "cost": 15.00,
+      "deliveryTime": {
+        "estimate": 1,
+        "shipping": 1,
+        "handling": 0
+      },
+      "method": {
+        "id": "correios_sedex_10",
+        "name": "Sedex 10"
+      }
+    },
+    {
+      "id": "sr12bfe83d704c76bd4f81f99abffw12",
+      "cost": 20.00,
+      "scheduledDeliveries" : [
+        "2017-05-16",
+        "2017-05-17",
+        "2017-05-18"
+      ],
+      "method": {
+        "id": "agendada",
+        "name": "Entrega Agendada"
+      }
+    }
+  ]
+}

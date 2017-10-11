@@ -1,0 +1,13 @@
+{
+  "zipcode": "00000000",
+  "items": [
+    {
+      "sku": "SKU_PARCEIRO_1",
+      "quantity": 2
+    },
+    {
+      "sku": "SKU_PARCEIRO_2",
+      "quantity": 1
+    }
+  ]
+}
